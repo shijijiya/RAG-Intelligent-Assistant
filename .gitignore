@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+
+# Local runtime data
+chat_history/
+chroma_db/
+chroma_db_bak_old/
+md5.text
+md5.text.bak_old
+
+# Local environments and tooling caches
+.venv/
+venv/
+.pytest_cache/
+.idea/
+.vscode/
